@@ -2,7 +2,7 @@
 
 ### Deliverables Completed
 
-REST APIs for performing the following operations in the application:**
+REST APIs for performing the following operations in the application:
   1  - View products available for purchase
   2  - Place an order for given products
   3  - Cancel an order given the orderId
