@@ -3,11 +3,11 @@
 ### Deliverables Completed
 
 REST APIs for performing the following operations in the application:
-  1  - View products available for purchase
-  2  - Place an order for given products
-  3  - Cancel an order given the orderId
-  4  - Fetch orders placed by a customer
-  5  - Add/update the product SKU quantity
+    - View products available for purchase
+    - Place an order for given products
+    - Cancel an order given the orderId
+    - Fetch orders placed by a customer
+    - Add/update the product SKU quantity
   
 ### Development Guidelines Followed
 
